@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahad-hosen-akash-63b7162b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahad-hosen-akash-63b7162b8/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akash_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash_21" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AAkash_215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash_21" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/08akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="08akash" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akash_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_08" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ahakasy5f3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ahakasy5f3" height="30" width="40" /></a>

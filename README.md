@@ -75,9 +75,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<h3 align="center">📈 GitHub Activity Graph</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahaakash&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" style="display:inline-block; margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical" alt="github stats" style="display:inline-block; margin-right:10px;" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=ahaakash&theme=react-dark&hide_border=true" alt="github activity graph" style="display:inline-block;" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ahaakash&theme=react-dark&hide_border=true" alt="github activity graph" />
 </p>
+
 

@@ -62,9 +62,6 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahaakash&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical" alt="github stats" />
 </p>
 

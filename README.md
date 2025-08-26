@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahad Hosen Akash</h1>
+<h1 align="center" style="position:relative;">
+  Hi 👋, I'm Ahad Hosen Akash
+  <!-- Day/Night buttons -->
+  <span style="position:absolute; top:0; right:10px;">
+    <a href="#day" onclick="alert('Click the light version below!');" style="font-size:14px; padding:2px 6px; margin-right:4px; background:#f0f0f0; color:#000; border-radius:4px; text-decoration:none;">🌞 Day</a>
+    <a href="#night" onclick="alert('Click the dark version below!');" style="font-size:14px; padding:2px 6px; background:#000; color:#fff; border-radius:4px; text-decoration:none;">🌙 Night</a>
+  </span>
+</h1>
 <h3 align="center">🚀 A Passionate Full-Stack Developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -72,10 +79,16 @@
 </p>
 <h3 align="center">🐍 Contribution Snake</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <!-- Light Mode Snake -->
+  <a id="day" href="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake.svg" alt="Day Snake" width="400"/>
+  </a>
+
+  <!-- Dark Mode Snake -->
+  <a id="night" href="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake-dark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake-dark.svg" alt="Night Snake" width="400"/>
+  </a>
+</p>
 
 

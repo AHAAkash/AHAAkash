@@ -85,6 +85,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
   </a>
+  <a href="https://www.google.com/sheets/about/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Google_Sheets-43A047?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/> 
+  </a>
 </p>
 
 

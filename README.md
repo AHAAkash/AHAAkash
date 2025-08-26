@@ -107,10 +107,11 @@
 </p>
 
 <p align="center">
-      
-   <img src="https://github-readme-streak-stats.vercel.app?user=ahaakash&theme=radical" 
-       alt="streak stats backup"
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.vercel.app?user=ahaakash&theme=radical" 
+       alt="streak stats" />
 </p>
+
 
 
 

@@ -97,13 +97,25 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahaakash&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical" alt="github stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahaakash&show_icons=true&locale=en&layout=compact&theme=radical" 
+       alt="top languages" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical" 
+       alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahaakash&theme=radical" alt="streak stats" />
+  <!-- Streak Stats (Primary) -->
+  <img src="https://streak-stats.demolab.com?user=ahaakash&theme=radical&v=2" 
+       alt="streak stats" />
+       
+  <!-- Streak Stats (Backup: uncomment if above doesn't load) -->
+  <!-- <img src="https://github-readme-streak-stats.vercel.app?user=ahaakash&theme=radical" 
+       alt="streak stats backup" /> -->
 </p>
+
 
 
 

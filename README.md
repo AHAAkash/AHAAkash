@@ -107,13 +107,9 @@
 </p>
 
 <p align="center">
-  <!-- Streak Stats (Primary) -->
-  <img src="https://streak-stats.demolab.com?user=ahaakash&theme=radical&v=2" 
-       alt="streak stats" />
-       
-  <!-- Streak Stats (Backup: uncomment if above doesn't load) -->
-  <!-- <img src="https://github-readme-streak-stats.vercel.app?user=ahaakash&theme=radical" 
-       alt="streak stats backup" /> -->
+      
+   <img src="https://github-readme-streak-stats.vercel.app?user=ahaakash&theme=radical" 
+       alt="streak stats backup"
 </p>
 
 

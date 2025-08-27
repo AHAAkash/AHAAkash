@@ -95,20 +95,19 @@
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
-
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahaakash&show_icons=true&locale=en&layout=compact&theme=radical" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahaakash&show_icons=true&locale=en&layout=compact&theme=radical&v=1" 
        alt="top languages" />
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical" 
+  <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical&v=1" 
        alt="github stats" />
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaakash&theme=radical" 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahaakash&theme=radical&v=1" 
        alt="streak stats" />
 </p>
 

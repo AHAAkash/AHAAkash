@@ -107,7 +107,7 @@
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahaakash&theme=radical&v=1" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaakash&theme=radical" 
        alt="streak stats" />
 </p>
 

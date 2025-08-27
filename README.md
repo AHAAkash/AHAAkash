@@ -108,15 +108,13 @@
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.vercel.app?user=ahaakash&theme=radical" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaakash&theme=radical" 
        alt="streak stats" />
 </p>
 
 
-
-
-
-<h3 align="center">🐍 Contribution Snake</h3>
+---
+<h3 align="center">Contribution Snake</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahaakash/ahaakash/output/github-contribution-grid-snake-dark.svg" />

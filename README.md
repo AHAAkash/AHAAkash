@@ -95,6 +95,7 @@
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
+
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahaakash&show_icons=true&locale=en&layout=compact&theme=radical&v=1" 
@@ -106,10 +107,14 @@
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaakash&theme=radical" 
-       alt="streak stats" />
+  <!-- Streak Stats (Primary: Heroku, Fallback: Vercel) -->
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=ahaakash&theme=radical&v=1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ahaakash&theme=radical&v=1" 
+         alt="streak stats" />
+  </picture>
 </p>
+
 
 
 ---

@@ -107,13 +107,10 @@
 </p>
 
 <p align="center">
-  <!-- Streak Stats (Primary: Heroku, Fallback: Vercel) -->
-  <picture>
-    <source srcset="https://streak-stats.demolab.com?user=ahaakash&theme=radical&v=1" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ahaakash&theme=radical&v=1" 
-         alt="streak stats" />
-  </picture>
+  <img src="https://github-readme-streak-stats-ffm2a7ag3-akashs-projects-8a6f1b8f.vercel.app?user=ahaakash&theme=radical" 
+       alt="streak stats" />
 </p>
+
 
 
 

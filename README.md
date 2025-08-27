@@ -10,7 +10,7 @@
 ---
 
 ### 🌱 Currently Learning
-- **Python for Research**
+- **ML for Research**
 
 ### 💬 Ask Me About
 - **Django & Full-Stack Development**

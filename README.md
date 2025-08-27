@@ -107,9 +107,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-ffm2a7ag3-akashs-projects-8a6f1b8f.vercel.app?user=ahaakash&theme=radical" 
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaakash&theme=radical" 
        alt="streak stats" />
 </p>
+
 
 
 

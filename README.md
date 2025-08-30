@@ -104,15 +104,13 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical&v=1" 
        alt="github stats" />
-</p>
-
-<p align="center">
+       
+  <p align="center">
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaakash&theme=radical" 
        alt="streak stats" />
 </p>
-
-
+</p>
 
 
 

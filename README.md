@@ -101,15 +101,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahaakash&show_icons=true&locale=en&layout=compact&theme=radical&v=1" 
        alt="top languages" />
 </p>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <!-- GitHub Stats (Left) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical&v=1" 
-       alt="github stats" style="max-width: 48%;" />
 
-  <!-- Streak Stats (Right) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaakash&theme=radical" 
-       alt="streak stats" style="max-width: 48%;" />
-</div>
+<table width="100%">
+  <tr>
+    <!-- GitHub Stats (Left) -->
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical&v=1" 
+           alt="github stats" width="400"/>
+    </td>
+
+    <!-- Streak Stats (Right) -->
+    <td align="right">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaakash&theme=radical" 
+           alt="streak stats" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 
 

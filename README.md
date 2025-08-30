@@ -100,7 +100,8 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahaakash&show_icons=true&locale=en&layout=compact&theme=radical&v=1" 
        alt="top languages" />
-  
+</p>
+<p>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ahaakash&show_icons=true&locale=en&theme=radical&v=1" 
        alt="github stats" />

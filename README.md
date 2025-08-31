@@ -88,6 +88,9 @@
   <a href="https://www.google.com/sheets/about/" target="_blank"> 
     <img src="https://img.shields.io/badge/Google_Sheets-43A047?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/> 
   </a>
+  <a href="https://www.latex-project.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/> 
+  </a>
 </p>
 
 

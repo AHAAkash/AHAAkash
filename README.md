@@ -91,7 +91,11 @@
   <a href="https://www.latex-project.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/> 
   </a>
+  <a href="https://streamlit.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> 
+  </a>
 </p>
+
 
 
 

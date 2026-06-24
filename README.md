@@ -13,7 +13,7 @@
 - **ML for Research**
 
 ### 💬 Ask Me About
-- **Django & Full-Stack Development**
+- **Data Analysis**
 
 ### 📫 Reach Me At
 - **a.h.aakash215@gmail.com**

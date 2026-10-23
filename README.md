@@ -94,6 +94,19 @@
   <a href="https://streamlit.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> 
   </a>
+  
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  </a>
 </p>
 
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahad Hosen Akash</h1>
-<h3 align="center">🚀 A Passionate Full-Stack Developer from Bangladesh</h3>
+<h3 align="center">🚀 A Passionate Aspiring AI/ML Researcher | Full-Stack Developer | Vibe Coding Enthusiast from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -143,7 +143,11 @@
   </a>
   <a href="https://n8n.io/" target="_blank">
     <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  </a>  
+  <a href="https://www.deepseek.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
   </a>
+
 </p>
 
 

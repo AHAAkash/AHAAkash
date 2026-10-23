@@ -110,8 +110,8 @@
 </p>
 
 
-
 ---
+
 <h3 align="left">🤖 AI & Vibe Coding:</h3>
 <p align="left">
   <a href="https://chatgpt.com/" target="_blank">
@@ -121,20 +121,30 @@
     <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   </a>
   <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-  </a>
-  <a href="https://cursor.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
   </a>
   <a href="https://grok.com/" target="_blank">
     <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
   </a>
+  <a href="https://cursor.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  </a>
   <a href="https://antigravity.google/" target="_blank">
     <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
   </a>
+  <a href="https://github.com/features/copilot" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  </a>
+  <a href="https://lovable.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable"/>
+  </a>
+  <a href="https://bolt.new/" target="_blank">
+    <img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt.new"/>
+  </a>
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  </a>
 </p>
-
----
 
 
 ---

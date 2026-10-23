@@ -111,6 +111,31 @@
 
 
 
+---
+<h3 align="left">🤖 AI & Vibe Coding:</h3>
+<p align="left">
+  <a href="https://chatgpt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  </a>
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  </a>
+  <a href="https://gemini.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  </a>
+  <a href="https://cursor.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  </a>
+  <a href="https://grok.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
+  </a>
+  <a href="https://antigravity.google/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
+  </a>
+</p>
+
+---
+
 
 ---
 
